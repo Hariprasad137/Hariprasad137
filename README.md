@@ -62,7 +62,7 @@
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [Hariprasad](www.linkedin.com/in/silvercloud137)  
+- **LinkedIn**: [Hariprasad](https://www.linkedin.com/in/silvercloud137)  
 - **Instagram**: [@silver_cloud_137](https://www.instagram.com/silver_cloud_137)  
 - **Email**: [obj268version4@gmail.com](mailto:obj268version4@gmail.com)  
 
