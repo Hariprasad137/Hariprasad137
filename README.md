@@ -1,16 +1,71 @@
-## Hi there 👋
+# 🌟 Hariprasad | Full-Stack Developer in Progress 🌟
 
-<!--
-**Hariprasad137/Hariprasad137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome Banner](https://raw.githubusercontent.com/Hariprasad/Hariprasad/main/banner.gif)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8A2BE2&width=600&lines=Hi+there!+I'm+Hariprasad+👋;A+Passionate+Developer+%26+Learner;Full-Stack+MERN+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 👨‍🎓 **B.E. in Computer Science** | Jeppiaar Engineering College (2022–2026)  
+- 💻 Enthusiastic about **MERN Stack Development**, **Machine Learning**, and **App Development**.  
+- 🌱 Currently honing skills in **React**, **Node.js**, and **Graphics Animation Libraries**.  
+- 🎯 Goal: Create seamless and responsive web experiences.  
+
+---
+
+## 🛠️ Skills & Tools
+
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SCSS](https://img.shields.io/badge/-SCSS-1572B6?logo=scss&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder&logoColor=white&style=flat)
+
+---
+
+## 🌟 Featured Projects
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WhisperedShadow&show_icons=true&theme=tokyonight&count_private=true" alt="Durai Pon Singh's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhisperedShadow&layout=compact&theme=tokyonight&langs_count=6" alt="Durai Pon Singh's Top Languages" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+- **LinkedIn**: [Hariprasad](www.linkedin.com/in/silvercloud137)  
+- **Instagram**: [@silver_cloud_137](https://www.instagram.com/silver_cloud_137)  
+- **Email**: [obj268version4@gmail.com](mailto:obj268version4@gmail.com)  
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
