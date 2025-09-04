@@ -1,12 +1,11 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/SM6Y2hR.gif" alt="Banner" width="100%" />
-</p>
+
 
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hariprasad!;Final+Year+CSE+Student;Web+Developer+|+ML+Enthusiast;Always+Learning+🚀&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Typing SVG">
 </h1>
+
+
 
 <p align="center">
   🎓 Final Year <strong>B.E. Computer Science & Engineering</strong> Student <br/>
@@ -15,6 +14,11 @@
 </p>
 
 ---
+
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hariprasad137/Hariprasad137/refs/heads/main/github-ppic.gif" alt="Banner" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -79,3 +83,4 @@ Want to know more about my background and experience?
 ---
 
 > 💡 *"The best way to predict the future is to invent it."* — Alan Kay
+
