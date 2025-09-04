@@ -1,10 +1,12 @@
-
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hariprasad137/Hariprasad137/main/github-ppic.gif" alt="Banner" width="100%" />
+</p>
 
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Hariprasad!;Final+Year+CSE+Student;Web+Developer+|+ML+Enthusiast;Always+Learning+🚀&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I'm+Hariprasad!;Final+Year+CSE+Student;Web+Developer+%7C+ML+Enthusiast;Always+Learning+%F0%9F%9A%80&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24" alt="Typing SVG">
 </h1>
-
 
 
 <p align="center">
@@ -14,11 +16,6 @@
 </p>
 
 ---
-
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hariprasad137/Hariprasad137/refs/heads/main/github-ppic.gif" alt="Banner" width="100%" />
-</p>
 
 ## 🛠️ Tech Stack
 
@@ -55,8 +52,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariprasad137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasad137&theme=tokyo-night&hide_border=true" width="48%"/>
-  <br/>
+  <img src="https://streak-stats.demolab.com?user=hariprasad137&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprasad137&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad137&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
@@ -83,4 +86,3 @@ Want to know more about my background and experience?
 ---
 
 > 💡 *"The best way to predict the future is to invent it."* — Alan Kay
-
